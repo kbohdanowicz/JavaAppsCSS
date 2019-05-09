@@ -1,0 +1,36 @@
+#imlogo{
+    -fx-background-image: url("/dev/res/logo.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
+#imMenuPoz{
+    -fx-background-image: url("/dev/res/menu_poz.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
+#imNaglowek{
+    -fx-background-image: url("/dev/res/naglowek.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
+#btnP1{
+    -fx-graphic: url("/dev/res/p1.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
+#btnP2{
+    -fx-graphic: url("/dev/res/p2.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
+#imStopka{
+    -fx-background-image: url("/dev/res/stopka.png");
+    /*-fx-background-repeat: stretch;*/
+    /*-fx-background-size: 90 94;*/
+    /*-fx-background-position: center center;*/
+}
